@@ -18,7 +18,7 @@
 	  "url": "https://github.com/endemecio02/node-red-contrib-httpauth.git"
   },
   "engines": {
-	  "node": "^0.12.7"
+	  "node": ">=0.12.7"
   },
   "node-red": {
     "nodes": {
